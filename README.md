@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Maruri</h1>
 <h3 align="center">A passionate React Native & React web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/417275784596815872/1283060466905514017/file-sbG1tTBbik2WqqUSE1MSTQ4Y.png?ex=66e987ad&is=66e8362d&hm=f27eca8acc9b90e24e21d114f8769143e4346e9a6e988767f9917411f0673f2a&" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galeonn321&label=Profile%20views&color=0e75b6&style=flat" alt="galeonn321" /> </p>
 
